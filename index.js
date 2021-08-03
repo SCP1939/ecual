@@ -1501,7 +1501,7 @@ msg.channel.send({ embed: {
 
 }
 
-else if(comando === "holamiguelperez"){
+else if(comando === "bobux"){
 msg.delete({ timeout: 100 })
 if (!msg.content.startsWith(prefix) || msg.author.bot || !msg.guild) return;
  if (talkedRecently.has(msg.author.id)) {
