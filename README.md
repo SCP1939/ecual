@@ -1,5 +1,6 @@
 ## Ecual
-Bot desactivado mal programado y antiguo.
+- Mi primer proyecto bot de Discord con discord.js
+- Ahora descansa en paz, pero no he dejado los bots.
 ## Kedula
-Bot encendido, estable, optimizado y nuevo.
-Invitalo aquí: https://dsc.gg/kedula
+- Mi nuevo bot, en desarrollo y con una base mejor.
+- Invita a Kedula aquí: https://dsc.gg/kedula
